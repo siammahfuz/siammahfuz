@@ -3,7 +3,7 @@
 
 <h1 align='center'> Hi there 👋, I'm [Siam Khan]!👩‍💻 </h1>
 
-<p align='center'><b>Android App Developer, Web Deveoper</b></p>
+<p align='center'><b>Graphic Designer, Android App Developer, Web Developer</b></p>
 
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=n3o-d4rk3r??style=for-the-badge&logo=appveyor"></a>
@@ -17,7 +17,7 @@ I work as a Android Application Developer, Web Developer, Freelancer, Digital Ma
 <i>Happy Coding!</i> 😊</h3>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiamKhan&show_icons=true&count_private=true&theme=chartreuse-dark" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siammahfuz&show_icons=true&count_private=true&theme=chartreuse-dark" />
 
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
