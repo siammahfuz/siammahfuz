@@ -2,6 +2,7 @@
 
 
 <h1 align='center'> Hi there 👋, I'm [Siam Khan]!👩‍💻 </h1>
+
 <p align='center'><b>Android App Developer, Web Deveoper</b></p>
 
 <p align='center'>
@@ -13,6 +14,13 @@
 </p>
 
 I work as a Android Application Developer, Web Developer, Freelancer, Digital Marketer.
+<i>Happy Coding!</i> 😊</h3>
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiamKhan&show_icons=true&count_private=true&theme=chartreuse-dark" />
+
+
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 - 🔭 I’m currently working on Freelancer, Fiverr, CPA Grip
 - 🌱 I’m currently learning **Advanced Android Application Development with Java and kotlin also Web Development**
