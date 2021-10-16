@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/adamlston/admalston/master/profile_light.gif)]()<!-- If you want the template for my gif, email me! -->
+(https://raw.githubusercontent.com/adamlston/admalston/master/profile_light.gif)]()<!-- If you want the template for my gif, email me! -->
 
 
 <h1 align='center'> Hi there 👋, I'm [Siam Khan]!👩‍💻 </h1>
