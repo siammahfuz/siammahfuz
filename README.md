@@ -9,17 +9,6 @@
 I work as a Graphic Designer, Android Application Developer, Web Developer, Freelancer, Digital Marketer.
 <i>Happy Coding!</i> 😊</h3>
 
-<!-- github stats starts here  -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siam-khan)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=siam-khan)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=siam-khan&show_icons=true)
-
-<br/>
-
-
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 - 🔭 I’m currently working on Freelancer, Fiverr, CPA Grip
