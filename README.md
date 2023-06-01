@@ -1,13 +1,11 @@
 <h1 align='center'> Hi there 👋, I'm [Siam Khan]!👩‍💻 </h1>
 
-<p align='center'><b>Graphic Designer, Android App Developer, Web Developer</b></p>
+<p align='center'><b>Computer Engineer, Android App Developer, Web Developer, Graphic Designer, Digital Marketer</b></p>
+
+
 
 <p align='center'>
-  <a href="#"><img src=[https://visitor-badge.glitch.me/badge?page_id](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge.issue.1)=jwenjian.visitor-badge></a>
-</p>
-
-<p align='center'>
- <a href="https://www.facebook.com/profile.php?id=100024892814596"_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a> <a href="https://twitter.com/Siam75094165?fbclid=IwAR0RJANMjbS995Nwm9VzDVubd4FbqV57OHzcGM3D33aZJXHXEMJ20BB1HAI" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Twitter"></a> <a href="https://www.instagram.com/beingsiamkhan/?fbclid=IwAR1LYLLPLLqcP8J7yXjOrsUSmxfPEJfpcun9v26DnOlhbtLIPB6rr-NvFl4" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&amp;style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a> <a href="https://www.linkedin.com/in/MD%20MahfuzurRahman%20Shium?fbclid=IwAR1DhwykWmBUdVyaqRfFU_2Pw7MDU8vXJrzxnnP2U-EPcjJXnQabx6ssj4U" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="ksiam3409@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=ksiam3409@gmail.com" alt="Gmail Badge"></a>
+ <a href="https://www.facebook.com/profile.php?id=100024892814596"_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a> <a href="https://twitter.com/Siam75094165?fbclid=IwAR0RJANMjbS995Nwm9VzDVubd4FbqV57OHzcGM3D33aZJXHXEMJ20BB1HAI" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Twitter"></a> <a href="https://www.instagram.com/beingsiamkhan/?fbclid=IwAR1LYLLPLLqcP8J7yXjOrsUSmxfPEJfpcun9v26DnOlhbtLIPB6rr-NvFl4" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&amp;style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a> <a href="https://www.linkedin.com/in/md-mahfuzur-rahman-shium-1454b01a0/ IwAR1DhwykWmBUdVyaqRfFU_2Pw7MDU8vXJrzxnnP2U-EPcjJXnQabx6ssj4U" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="ksiam3409@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=ksiam3409@gmail.com" alt="Gmail Badge"></a>
 </p>
 
 I work as a Graphic Designer, Android Application Developer, Web Developer, Freelancer, Digital Marketer.
