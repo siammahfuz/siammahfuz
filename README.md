@@ -3,7 +3,7 @@
 <p align='center'><b>Graphic Designer, Android App Developer, Web Developer</b></p>
 
 <p align='center'>
-  <a href="#"><img src=https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge></a>
+  <a href="#"><img src=[https://visitor-badge.glitch.me/badge?page_id](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge.issue.1)=jwenjian.visitor-badge></a>
 </p>
 
 <p align='center'>
