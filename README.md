@@ -14,7 +14,7 @@ I work as a Graphic Designer, Android Application Developer, Web Developer, Free
 <i>Happy Coding!</i> 😊</h3>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siammahfuz&show_icons=true&count_private=true&theme=chartreuse-dark" />
+
 
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
