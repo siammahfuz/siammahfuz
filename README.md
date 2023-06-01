@@ -18,7 +18,7 @@ I work as a Graphic Designer, Android Application Developer, Web Developer, Free
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 - 🔭 I’m currently working on Freelancer, Fiverr, CPA Grip
-- 🌱 I’m currently learning **Advanced Android Application Development with Java and kotlin also Web Development**
+- 🌱 I’m currently working on **Advanced Android Application Development & Web Development**
 
 <hr>
 
@@ -50,11 +50,11 @@ I work as a Graphic Designer, Android Application Developer, Web Developer, Free
 
 <h4>💬 Mobile Projects:</h4>
 
-[![](https://img.shields.io/badge/-🩸%20ABCKids-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/ABCKids)
-[![](https://img.shields.io/badge/-🌊%20Pukki%20Fly-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/PukkiFly)
-[![](https://img.shields.io/badge/-🗂%20QR%20Scanner%20-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/QRScanner)
-[![](https://img.shields.io/badge/-💉%20QuoteLOVE%20Pro-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/QuoteLOVE%20Pro)</br>
-[![](https://img.shields.io/badge/-🛡%20SpeedMeter%20Pro-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/SpeeedMeterPro)
+[![](https://img.shields.io/badge/-🩸%20ABCKids-000)]
+[![](https://img.shields.io/badge/-🌊%20Pukki%20Fly-000)]
+[![](https://img.shields.io/badge/-🗂%20QR%20Scanner%20-000)]
+[![](https://img.shields.io/badge/-💉%20QuoteLOVE%20Pro-000)]
+[![](https://img.shields.io/badge/-🛡%20SpeedMeter%20Pro-000)]
 
 
 <p align='right'>
