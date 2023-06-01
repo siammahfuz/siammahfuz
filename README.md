@@ -45,7 +45,7 @@ I work as a Graphic Designer, Android Application Developer, Web Developer, Free
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub">
 <img src="https://img.shields.io/badge/-Linux-000000?style=flat&amp;logo=linux&amp;logoColor=FCC624" alt="Linux">
 <img src="https://img.shields.io/badge/-Spring-000000?style=flat&amp;logo=spring&amp;logoColor=6DB33F" alt="Java Spring">
-<a href="https://github.com/microsoft/vscode"><img src= alt="Visual Studio Code"></a></p>
+</p>
 
 
 <h4>💬 Mobile Projects:</h4>
