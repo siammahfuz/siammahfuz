@@ -11,11 +11,11 @@ I work as a Graphic Designer, Android Application Developer, Web Developer, Free
 
 <!-- github stats starts here  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-mahfuzur-rahman-shium)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siam-khan)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=md-mahfuzur-rahman-shium)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=siam-khan)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=md-mahfuzur-rahman-shium&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=siam-khan&show_icons=true)
 
 <br/>
 
