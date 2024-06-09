@@ -23,33 +23,39 @@ I work as a Computer Engineer, Web Designer & Developer, App Developer, Digital 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/pypi/pyversions/php)
-![Php](https://img.shields.io/pypi/pyversions/php)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
 
 
 
 
 <h4>💬 Web Prorgamming Skills:</h4>
 
- <p><a href="https://github.com/siammahfuz/"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white&amp;linkhttps://github.com/siammahfuz/" alt="HTML5"></a>
-<a href="https://github.com/siammahfuz/"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3&amp;link=https://github.com/siammahfuz/" alt="CSS3"></a>
- <a href="https://github.com/siammahfuz/"><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript&amp;link=https://github.com/siammahfuz/" alt="Bootstrap"></a>
-<a href="https://github.com/siammahfuz/"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap&amp;link=https://github.com/siammahfuz/" alt="Bootstrap"></a>
-<a href="https://github.com/siammahfuz/"><img src="https://img.shields.io/badge/-PHP-336791?style=flat-square&amp;logo=postgresql&amp;link=https://github.com/siammahfuz/" alt="PHP"></a></p>
+![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
 
 <h4>💬 Database Skill:</h4> 
+
 <a href="https://github.com/siammahfuz/"><img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql&amp;link=https://github.com/siammahfuz/" alt="MySQL"></a> <a href="https://github.com/siammahfuz/"><img src="https://img.shields.io/badge/-SQLite-336791?style=flat-square&amp;logo=postgresql&amp;link=https://github.com/n3o-d4rk3r/" alt="SQLite"></a>
 
 
 
 <h4>💬 Research Papers:</h4>
 <p>
-<h3> Fault Tolerance in Real Life Distributed System with Wireless Sensor Network: An Overview </h3>
+<h3> Fault Tolerance in Real Life Distributed System with Wireless Sensor Network: An Overview </h3> 
+<h3> Cyber Security and Ethical hacking </h3> 
  
 </p>
 
 
 
 <h4>💬 Some of the technologies, I have worked with:</h4>
+
 <p><img src="https://img.shields.io/badge/-Git-000000?style=flat&amp;logo=git&amp;logoColor=F05032" alt="Git">
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub">
 <img src="https://img.shields.io/badge/-Linux-000000?style=flat&amp;logo=linux&amp;logoColor=FCC624" alt="Linux">
