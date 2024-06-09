@@ -1,8 +1,8 @@
 <h1 align='center'> Hi there 👋, I'm [Siam Khan]!👨‍💻💻 </h1>
 
-<p align='center'><b>Computer Engineer, Android App Developer, Web Developer, Graphic Designer, Digital Marketer</b></p>
+<p align='center'><b>Computer Engineer, Web Designer & Developer, App Developer, Digital marketer, Researcher, Content creator at Facebook, Youtube, Instagram & Tiktok </b></p>
 
-<p align='center'>
+<p align='center'> 
  <a href="https://www.facebook.com/profile.php?id=100024892814596"_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a> <a href="https://twitter.com/Siam75094165?fbclid=IwAR0RJANMjbS995Nwm9VzDVubd4FbqV57OHzcGM3D33aZJXHXEMJ20BB1HAI" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Twitter"></a> <a href="https://www.instagram.com/beingsiamkhan/?fbclid=IwAR1LYLLPLLqcP8J7yXjOrsUSmxfPEJfpcun9v26DnOlhbtLIPB6rr-NvFl4" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&amp;style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a> <a href="https://www.linkedin.com/in/md-mahfuzur-rahman-shium-1454b01a0/ target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="ksiam3409@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=ksiam3409@gmail.com" alt="Gmail Badge"></a>
 </p>
 
@@ -11,8 +11,8 @@ I work as a Graphic Designer, Android Application Developer, Web Developer, Free
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-- 🔭 I’m currently working on Freelancer, Fiverr, CPA Grip
-- 🌱 I’m currently working on **Advanced Android Application Development & Web Development**
+- 🔭 I’m currently working on Creative Brights Technology
+- 🌱 I’m currently working on **Web Designing & Web Development **
 
 <hr>
 
