@@ -17,7 +17,7 @@ I work as a Computer Engineer, Web Designer & Developer, App Developer, Digital 
 
 <hr>
 
-<h4>💬 Programming Lang:</h4>
+<h4>💬 Programming Languages:</h4>
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
@@ -36,8 +36,17 @@ I work as a Computer Engineer, Web Designer & Developer, App Developer, Digital 
 <a href="https://github.com/siammahfuz/"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap&amp;link=https://github.com/siammahfuz/" alt="Bootstrap"></a>
 <a href="https://github.com/siammahfuz/"><img src="https://img.shields.io/badge/-PHP-336791?style=flat-square&amp;logo=postgresql&amp;link=https://github.com/siammahfuz/" alt="PHP"></a></p>
 
-<h4>💬 Database Skill:</h4>
+<h4>💬 Database Skill:</h4> 
 <a href="https://github.com/siammahfuz/"><img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql&amp;link=https://github.com/siammahfuz/" alt="MySQL"></a> <a href="https://github.com/siammahfuz/"><img src="https://img.shields.io/badge/-SQLite-336791?style=flat-square&amp;logo=postgresql&amp;link=https://github.com/n3o-d4rk3r/" alt="SQLite"></a>
+
+
+
+<h4>💬 Research Papers:</h4>
+<p>
+<h3> Fault Tolerance in Real Life Distributed System with Wireless Sensor Network: An Overview </h3>
+ 
+</p>
+
 
 
 <h4>💬 Some of the technologies, I have worked with:</h4>
