@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm [Siam Khan]!👨‍💻💻 </h1>
+<h1 align='center'> Hi there 👋, I'm [Siam]!👨‍💻💻 </h1>
 
 <p align='center'><b>Computer Engineer, Web Designer & Developer, App Developer, Digital marketer, Researcher, Content creator at Facebook, Youtube, Rumble, Instagram & Tiktok 🧑🏼‍💻 </b></p>
 
