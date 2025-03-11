@@ -12,7 +12,7 @@ I work as a  Software Tester in TNS INFO and Programmer at Marlee, Content creat
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 - 🔭 I’m currently working on Marlee.
-- 🔭 I’m currently working on TNS INFO.
+- 🔭 I was working on TNS INFO.
 - 🌱 I’m currently working on **Web Designing & Web Development **
 - 🔭 I’m currently working on Cyber71 
 
