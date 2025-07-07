@@ -14,7 +14,7 @@ I work as a Research and development at Marlee, Content creator at Facebook, You
 - 🔭 I’m currently working on Marlee.
 - 🔭 I am working with TNS INFO.
 - 🌱 I’m currently working on **Web Designing & Web Development **
-- 🔭 I’m was a certified Cybersecurity Specialist from Arena Web security and was working on Cyber71 
+- 🔭 I am a certified Cybersecurity Specialist from Arena Web security and was working on Cyber71 
 
 <hr>
 
