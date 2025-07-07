@@ -12,7 +12,7 @@ I work as a Research and development at Marlee, Content creator at Facebook, You
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 - 🔭 I’m currently working on Marlee.
-- 🔭 I was working on TNS INFO.
+- 🔭 I am working with TNS INFO.
 - 🌱 I’m currently working on **Web Designing & Web Development **
 - 🔭 I’m was a certified Cybersecurity Specialist from Arena Web security and was working on Cyber71 
 
