@@ -1,20 +1,22 @@
-<h1 align='center'> Hi there 👋, I'm [Siam]!👨‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Md Mahfuzur Rahman Siam 👨‍💻 </h1>
 
-<p align='center'><b> Working as Software Tester & R&D; Computer Engineer | WordPress Developer | Programmer | UI/UX & Web/App Developer | SQA & Security Specialist | Researcher </b></p>
+<p align='center'><b> Working as Software Engineer, Designer & Developer | AI/ML Enthusiast | Laravel Developer | SQA Engineer | WordPress Developer | Digital Marketer | Cybersecurity Specialist | Researcher </b></p>
 
 <p align='center'> 
  <a href="https://www.facebook.com/Thekingofdhallywood/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a> <a href="https://twitter.com/Siam75094165?fbclid=IwAR0RJANMjbS995Nwm9VzDVubd4FbqV57OHzcGM3D33aZJXHXEMJ20BB1HAI" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Twitter"></a> <a href="https://www.instagram.com/beingsiamkhan/?fbclid=IwAR1LYLLPLLqcP8J7yXjOrsUSmxfPEJfpcun9v26DnOlhbtLIPB6rr-NvFl4" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&amp;style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a> <a href="https://www.linkedin.com/in/md-mahfuzur-rahman-siam-1454b01a0/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="ksiam3409@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=ksiam3409@gmail.com" alt="Gmail Badge"></a> 
 </p>
 
-I work as a Research and development at Marlee, Content creator at Facebook, Youtube, Rumble,  Instagram & Tiktok 🧑🏼‍💻
+I work as Software Engineer, Designer & Developer | AI/ML Enthusiast | Laravel Developer | SQA Engineer | WordPress Developer | Digital Marketer | Cybersecurity Specialist 🧑🏼‍💻
 <i>Happy Coding!</i> 😊</h3>
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-- 🔭 I’m currently working on Marlee.
-- 🔭 I am working with TNS INFO.
-- 🌱 I’m currently working on **Web Designing & Web Development **
-- 🔭 I am a certified Cybersecurity Specialist from Arena Web security and was working on Cyber71 
+👨🏻‍💻I’m currently working on Flexbit Solutions.
+👨🏻‍💻 I’m currently working on **Web Designing & Web Development **
+👨🏻‍💻 I am working with TNS INFO.
+👨🏻‍💻 I was a Programmer & Research and community support at Marlee.
+👨🏻‍💻 I was a Full stack developer at Cefalo.
+👨🏻‍💻 I am a certified Cybersecurity Specialist from Arena Web security and was working on Cyber71 
 
 <hr>
 
