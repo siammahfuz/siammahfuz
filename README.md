@@ -11,12 +11,12 @@ I work as Software Engineer, Designer & Developer | AI/ML Enthusiast | Laravel D
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-👨🏻‍💻I’m currently working on Flexbit Solutions.
-👨🏻‍💻 I’m currently working on **Web Designing & Web Development **
-👨🏻‍💻 I am working with TNS INFO.
-👨🏻‍💻 I was a Programmer & Research and community support at Marlee.
-👨🏻‍💻 I was a Full stack developer at Cefalo.
-👨🏻‍💻 I am a certified Cybersecurity Specialist from Arena Web security and was working on Cyber71 
+<p>👨🏻‍💻 I’m currently working on Flexbit Solutions.</p>
+<p>👨🏻‍💻 I’m currently working on **Web Designing & Web Development **</p>
+<p>👨🏻‍💻 I was a Software tester at TNS INFO.</p>
+<p>👨🏻‍💻 I was a Programmer & Research and community support at Marlee.</p>
+<p>👨🏻‍💻 I was a Full stack developer at Cefalo.</p>
+<p>👨🏻‍💻 I am a certified Cybersecurity Specialist from Arena Web security and was working on Cyber71</p>
 
 <hr>
 
