@@ -6,13 +6,14 @@
  <a href="https://www.facebook.com/computerengineersiamkhan"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a> <a href="https://x.com/Siam75094165" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Twitter"></a> <a href="https://www.instagram.com/softwareengineersiamkhan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&amp;style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a> <a href="https://www.linkedin.com/in/md-mahfuzur-rahman-siam/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="ksiam3409@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=ksiam3409@gmail.com" alt="Gmail Badge"></a> 
 </p>
 
-I work as Software Engineer, Designer & Developer | AI/ML Enthusiast | Laravel Developer | SQA Engineer | WordPress Developer | Digital Marketer | Cybersecurity Specialist 🧑🏼‍💻
+Work as a Software Engineer, Designer & Developer | AI/ML Enthusiast | Laravel Developer | SQA Engineer | WordPress Developer | Digital Marketer | Cybersecurity Specialist 🧑🏼‍💻
 <i>Happy Coding!</i> 😊</h3>
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 <p>👨🏻‍💻 I’m currently working as a Software Engineer at Flexbit Solutions.</p>
 <p>👨🏻‍💻 I’m currently working on **Web Designing & Web Development **</p>
+<p>👨🏻‍💻 I’m a Founder in Creative Brights Technology</p>
 <p>👨🏻‍💻 I was a Software tester at TNS INFO.</p>
 <p>👨🏻‍💻 I was a Programmer & Research and community support at Marlee.</p>
 <p>👨🏻‍💻 I was a Full stack developer at Cefalo.</p>
